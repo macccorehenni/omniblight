@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/omniblight-war/omniblight-war/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/omniblight-war/omniblight-war/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 
 - [[Omniblight War/Chapter 1— The Scrip\|Chapter 1— The Scrip]]
-- [[Omniblight War/Historic Log 1— The Seeds\|Historic Log 1— The Seeds]]
+- [[Omniblight War/Historic Log 1— The Seeds\|Historic Log 1— The Seeds]] (WIP)
 
 
