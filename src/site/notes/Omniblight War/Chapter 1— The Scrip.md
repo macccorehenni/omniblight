@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/omniblight-war/chapter-1-the-scrip/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/omniblight-war/chapter-1-the-scrip/","noteIcon":"1","dg-note-properties":{}}
 ---
 
 The _Scrip_ looked beautiful, or at the very least, it looked like what Stray would call home. The demigoddess turned mythical creature smiled as she signed the paper to buy the ship. She reasoned it was the best ship offered. The other two weren't big enough, weren't powerful enough for the Omnibalance. Her wings, an alloy of tough dragon hide and brilliant red rubies, folded in with a *shhk*.

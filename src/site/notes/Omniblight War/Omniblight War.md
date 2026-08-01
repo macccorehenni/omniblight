@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/omniblight-war/omniblight-war/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/omniblight-war/omniblight-war/","tags":["gardenEntry"],"noteIcon":"1","dg-note-properties":{}}
 ---
 
 

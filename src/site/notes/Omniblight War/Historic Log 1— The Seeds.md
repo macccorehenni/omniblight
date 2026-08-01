@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/omniblight-war/historic-log-1-the-seeds/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/omniblight-war/historic-log-1-the-seeds/","noteIcon":"1","dg-note-properties":{}}
 ---
 
 _The events in this story are from a thousand years before the_  Scrip _gained its captain. It tells the origin of the Omnibalance— the hero of the story of this war that Stray finds herself in, a war of morals and self, and defines what it means to be human, or divine. It tells the story of how the Second Black Star War  shaped the corruption among the divine that led to the exile of  Stray's found kind, and how it shaped who she was._
